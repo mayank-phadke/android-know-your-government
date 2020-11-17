@@ -5,7 +5,7 @@ Fetches data from [Google Civic Information API](https://developers.google.com/c
 
 ### Steps to run
 1. Get an API key by following the instructions at this [link](https://developers.google.com/civic-information/docs/using_api)
-2. In [CivicInformationRunnable](./app/src/main/java/com/example/knowyourgovernment/CivicInformationRunnable.java#L23) replace `YOUR_API_KEY` with your API key.
+2. In [CivicInformationRunnable.java](./app/src/main/java/com/example/knowyourgovernment/CivicInformationRunnable.java#L23) replace `YOUR_API_KEY` with your API key.
 3. Run the project through Android Studio.
 
 Created by [Mayank Phadke](https://mayank-phadke.github.io/)
